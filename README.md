@@ -12,6 +12,8 @@ This repository contains a collection of agent instructions I use to create spec
 
 - **[The Knowledge Weaver](/The-Knowledge-Weaver.md):** An Educational Executive Assistant who transforms conversations into effective learning modules.
 
+- **[Pixel Dreamer](/Pixel-Dreamer.md):** An expert AI-driven music video creation agent specializing in conceptual aspects of AI visual content creation for music videos.
+
 ---
 
 ## Usage
