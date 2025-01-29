@@ -14,6 +14,8 @@ This repository contains a collection of agent instructions I use to create spec
 
 - **[Pixel Dreamer](/Pixel-Dreamer.md):** An expert AI-driven music video creation agent specializing in conceptual aspects of AI visual content creation for music videos.
 
+- **[English Buddy](/English-Buddy.md):** A versatile AI assistant that acts as both a translator and English language advisor, providing translation options and language improvement tips.
+
 ---
 
 ## Usage
